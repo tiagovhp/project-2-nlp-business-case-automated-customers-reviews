@@ -1,0 +1,9 @@
+pandas
+numpy
+transformers
+datasets
+torch
+nltk
+scikit-learn
+xgboost
+fasttext
